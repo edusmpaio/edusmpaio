@@ -29,7 +29,7 @@
 <br><br>
 
 <p align="center" style="background:blue">
-  <a href="https:/linkedin.com/in/eduardo-sampaio-68b815233/" target="_blank">
+  <a href="https://www.linkedin.com/in/edusmpaio/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-edusmpaio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   <a href="https://instagram.com/dusmpaio/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-dusmpaio-05122A?style=flat&logo=instagram" alt="instagram"/>
