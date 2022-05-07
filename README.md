@@ -1,4 +1,3 @@
-<img align="right" width="250em" height="250em" src="https://c.tenor.com/kfneKUt-6pQAAAAC/nekoma-kenma.gif"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Edu!</h1>
 
 - 🚀 Buscando me tornar um desenvolvedor front-end
@@ -7,6 +6,7 @@
 
 - 🐱 Fun fact: Amo gatos 
 
+<img align="right" width="200em" height="200em" src="https://c.tenor.com/kfneKUt-6pQAAAAC/nekoma-kenma.gif"/>
 <br>
 
 ## 🛠 &nbsp;Tecnologias
