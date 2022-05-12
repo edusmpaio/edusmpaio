@@ -4,8 +4,6 @@
 
 - 📚 Estou aprendendo **JavaScript**
 
-- 🐱 Fun fact: Amo gatos 
-
 <img align="right" width="200em" height="200em" src="https://c.tenor.com/kfneKUt-6pQAAAAC/nekoma-kenma.gif"/>
 <br>
 
