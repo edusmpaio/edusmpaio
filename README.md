@@ -1,10 +1,9 @@
-<h1 align="left">Olá, eu sou o Edu!</h1>
+<h1 align="left">Olá, eu sou o Eduardo!</h1>
 
 - 🚀 Buscando me tornar um desenvolvedor front-end
 
-- 📚 Estou aprendendo **JavaScript**
+- 📚 Estou me aprofundando em **JavaScript**
 
-<img align="right" width="200em" height="200em" src="https://c.tenor.com/kfneKUt-6pQAAAAC/nekoma-kenma.gif"/>
 <br>
 
 ## 🛠 &nbsp;Tecnologias
