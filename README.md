@@ -2,7 +2,7 @@
 
 - 🚀 Buscando me tornar um desenvolvedor front-end
 
-- 📚 Estou me aprofundando em **JavaScript**
+- 📚 Estou me aprofundando em **JavaScript** e **SASSS/SCSS**
 
 <br>
 
@@ -12,6 +12,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white);
 
 <br><br>
 
