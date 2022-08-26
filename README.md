@@ -2,7 +2,7 @@
 
 - 🚀 Buscando me tornar um desenvolvedor front-end
 
-- 📚 Estou me aprofundando em **JavaScript** e **SASSS/SCSS**
+- 📚 Estou me aprofundando em **JavaScript** e **SASS/SCSS**
 
 <br>
 
