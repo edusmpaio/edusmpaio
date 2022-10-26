@@ -28,4 +28,4 @@
 
 #### 💬 Redes sociais e contatos
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edusmpaio/)](https://www.linkedin.com/in/edusmpaio/) 
-[![Gmail Badge](https://img.shields.io/badge/-edusmpaio1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edusmpaio1@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-edumspaio1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edusmpaio1@gmail.com)](mailto:edusmpaio1@gmail.com)
