@@ -6,6 +6,7 @@
 
 - 🚀 Atualmente me aprofundando em **JavaScript**
 
+<br>
 
 ## 🛠 Tecnologias
 
@@ -15,6 +16,7 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<br>
 
 ## ⚙️ Status GitHub 
 
@@ -23,6 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edusmpaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+<br>
 
 ## 💬 Redes sociais e contatos
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edusmpaio/)](https://www.linkedin.com/in/edusmpaio/) 
