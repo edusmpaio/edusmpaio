@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o Eduardo!</h1>
+<h2 align="left">Olá, eu sou o Eduardo!</h2>
 
 - 🚀 Buscando me tornar um desenvolvedor front-end
 
