@@ -1,8 +1,10 @@
 <h2 align="left">Olá, eu sou o Eduardo!</h2>
 
-- 🚀 Buscando me tornar um desenvolvedor front-end
+### 💡 &nbsp;Sobre mim
 
-- 📚 Estou me aprofundando em **JavaScript**
+📚 Estou estudando para me tornar um desenvolvedor front-end.
+
+🚀 Atualmente me aprofundando em **JavaScript**
 
 <br>
 
