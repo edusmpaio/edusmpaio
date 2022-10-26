@@ -1,14 +1,14 @@
 <h2 align="left">Olá, eu sou o Eduardo!</h2>
 
-### &nbsp;Sobre mim 💡 
+### 💡 &nbsp;Sobre mim 
 
-📚 Estou estudando para me tornar um desenvolvedor front-end.
+- 📚 Estou estudando para me tornar um desenvolvedor front-end.
 
-🚀 Atualmente me aprofundando em **JavaScript**
+- 🚀 Atualmente me aprofundando em **JavaScript**
 
 <br>
 
-### &nbsp;Tecnologias 🛠
+### 🛠 &nbsp;Tecnologias
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@
 
 <br><br>
 
-### &nbsp;Status GitHub ⚙️
+### ⚙️ &nbsp;Status GitHub 
 <br>
 
 <div align="left">
