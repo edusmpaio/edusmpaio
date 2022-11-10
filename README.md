@@ -4,7 +4,7 @@
 
 - 📚 Estou estudando para me tornar um desenvolvedor front-end.
 
-- 🚀 Atualmente me aprofundando em **JavaScript**
+- 🚀 Atualmente me aprofundando em **ReactJS**
 
 <br>
 
