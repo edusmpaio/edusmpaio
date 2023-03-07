@@ -1,14 +1,11 @@
-# Olá, eu sou o Eduardo!
+### Olá, eu sou o Eduardo!
 
-## 💡 Sobre mim 
+- 👨‍💻 Sou um desevolvedor front-end.
 
-- 📚 Estou estudando para me tornar um desenvolvedor front-end.
+- 🚀 Atualmente estou me aprofundando em **React e TypeScript.**
 
-- 🚀 Atualmente me aprofundando em **ReactJS e Typescript**
 
-<br>
-
-## 🛠 Tecnologias
+#### 🛠 Tecnologias
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,17 +16,6 @@
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
-<br>
-
-## ⚙️ Status GitHub 
-
-<div align="left">
-  <a href="https://github.com/edusmpaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edusmpaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-
-## 💬 Redes sociais e contatos
+#### 💬 Redes sociais e contatos
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edusmpaio/)](https://www.linkedin.com/in/edusmpaio/) 
 [![Gmail Badge](https://img.shields.io/badge/-edumspaio1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edusmpaio1@gmail.com)](mailto:edusmpaio1@gmail.com)
