@@ -2,7 +2,7 @@
 
 #### Sou um Desevolvedor Web Front-End.
 
-🚀 Atualmente estou me aprofundando em **React e TypeScript.**
+🚀 Atualmente estou me aprofundando em **Next.js e TypeScript.**
 
 📚 Cursando Análise e Desenvolvimento de Sistemas.
 
