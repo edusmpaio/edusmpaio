@@ -2,9 +2,9 @@
 
 #### Sou um Desevolvedor Web Front-End.
 
-🚀 Atualmente estou me aprofundando em **Next.js**
+🚀 Atualmente estou me aprofundando em **React**
 
-📚 Cursando Análise e Desenvolvimento de Sistemas.
+📚 Formado em Análise e Desenvolvimento de Sistemas.
 
 💡 Sempre focado em evoluir e me manter atualizado.
 
@@ -18,7 +18,6 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
 ### Redes sociais e contatos
